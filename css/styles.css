@@ -297,7 +297,17 @@ ul {
 
    /** Checkout complete **/
 
-   .checkout-image
-   {
-    width: 100%;
-   }
+   .checkout-main {
+    padding-left: 10px;
+}
+
+.placed-order img {
+    max-width: 100px;
+    max-height: 120px;
+}
+
+.contshp {
+    color: black;
+    text-decoration: underline;
+    size: 16px;
+}
