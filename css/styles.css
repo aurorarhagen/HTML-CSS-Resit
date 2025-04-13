@@ -57,12 +57,12 @@ h3, h5, h6, p, label, legend, .subscribefield {
 h6 {
     font-size: 1rem;
 }
+
 footer {
     background-color: #2F4475; 
     display: grid;
     grid-template-columns: repeat(3,1fr)
 }
-
 
 body {
     background-color: #F2F3F0;
